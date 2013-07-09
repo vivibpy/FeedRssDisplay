@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DisplayRss" 
+    android:padding="10dip">
+ <ListView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@android:id/list"/>
+    <TextView
+            android:id="@+id/txtTag1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="20dip"
+            android:padding="5dip"
+            android:text="Primeira Tag"/>
+
+    <TextView
+            android:id="@+id/txtTag2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textSize="10dip"
+            android:padding="5dip"
+            android:text="Segunda Tag"/>
+
+    <TextView
+            android:id="@+id/txtTag3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:textSize="10dip"
+            android:padding="5dip"
+            android:text="Terceira Tag"/>
+    <TextView
+            android:id="@+id/txtTag4"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:textSize="10dip"
+            android:padding="5dip"
+            android:text="Quarta Tag"/>
+
+</LinearLayout>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FeedRSSDisplay</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_title">Sun Over Earth\'s Horizon</string>
+    <string name="image_date">Mon, 03 Jun 2013 00:00:00 EDT</string>
+    <string name="image_description">The sun is captured in a \"starburst\" mode over Earth\'s horizon by one of the Expedition 36 crew members aboard the International Space Station, as the orbital outpost was above a point in southwestern Minnesota on May 21, 2013.</string>
+    <string name="edit_message">Tag desejada</string>
+    <string name="edit_message_adr">Endereço do Feed RSS</string>
+    <string name="text_view1">Tags desejadas:</string>
+    <string name="text_view2">Imagem</string>
+    <string name="button_feed">Display Feed</string>
+    <string name="title_activity_display_rss">DisplayRss</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
